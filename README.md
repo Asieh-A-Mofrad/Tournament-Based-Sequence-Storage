@@ -10,7 +10,7 @@ The structures are based on the original work by [Jiang et. al (2016)](https://i
 
 ### Prerequisites
 
-This code has been tested with Python 3.6.5 (Anaconda). You can download it or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([notebook.ipynb - Colaboratory (google.com)](https://colab.research.google.com/github/Asieh-A-Mofrad/Tournament-Based-Sequence-Storage/blob/main/notebook.ipynb) and access to the live view of the notebook. 
+This code has been tested with Python 3.6.5 (Anaconda). You can download it or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Asieh-A-Mofrad/Tournament-Based-Sequence-Storage/blob/main/notebook.ipynb) and access to the live view of the notebook.
 
 :warning: The program might crash if the initial values are not valid
 
