@@ -850,7 +850,7 @@ class Plot_Results(object):
         results = pickle.load( open(self.file_name, "rb" ))
         SER, CER, decision_record = results
 
-        plt.title(self.file_name.split("/")[1][:-2], fontsize = 25)       
+        #plt.title(self.file_name.split("/")[1][:-2], fontsize = 25)       
         plt.plot(list(SER.keys()), list(SER.values()),'r--', label = 'Sequence Error Rate')
         plt.plot(list(CER.keys()), list(CER.values()),'b--', label = 'Compnent Error Rate')
         plt.grid(True)
